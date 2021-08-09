@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @NO-FLAC
+- 👀 I’m interested in game development
+- 🌱 I’m currently learning django and other stuff related to web development
+- 💞️ I’m looking to collaborate on things that will teach me new stuff
+- 📫 How to reach me daiyan.psn082@gmail.com
